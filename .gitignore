@@ -1,0 +1,13 @@
+# Hugo 生成文件
+public/
+resources/_gen/
+.hugo_build.lock
+
+# 编辑器 / IDE
+.vscode/
+
+# 其他工具
+.mutsumi/
+
+# 系统文件
+.DS_Store
