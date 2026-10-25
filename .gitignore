@@ -5,6 +5,7 @@ resources/_gen/
 
 # 编辑器 / IDE
 .vscode/
+.frontmatter/database/
 
 # 其他工具
 .mutsumi/
